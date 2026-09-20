@@ -62,7 +62,6 @@ Use the reset button to start a new game.
 
 📸 Preview
 
-Add a screenshot of your game here:
 
 <img width="741" height="743" alt="image" src="https://github.com/user-attachments/assets/11ad72fb-33d6-42f6-998c-70b5b5b3fa5d" />
 
